@@ -1,0 +1,12 @@
+2024-07-29 20:28:01 [INFO]: Task added: Morning Exercise
+2024-07-29 20:28:25 [INFO]: Task added: Team Meeting
+2024-07-29 20:28:33 [INFO]: Viewed tasks
+2024-07-29 20:28:52 [INFO]: Task removed: Morning Exercise
+2024-07-29 20:29:17 [INFO]: Task added: Lunch Break
+2024-07-29 20:29:39 [ERROR]: Task conflicts with existing task: Team Meeting
+2024-07-29 20:30:00 [ERROR]: Task not found: Play Games
+2024-07-29 20:30:40 [ERROR]: Invalid time format. Please Check your time format
+2024-07-29 20:31:18 [ERROR]: Task conflicts with existing task: Team Meeting
+2024-07-29 20:31:24 [INFO]: Viewed tasks
+2024-07-29 20:31:31 [INFO]: Task removed: Team Meeting
+2024-07-29 20:31:39 [INFO]: Task removed: Lunch Break
