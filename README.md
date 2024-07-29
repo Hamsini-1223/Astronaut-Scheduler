@@ -35,8 +35,8 @@ The Astronaut Scheduler is a console-based application that helps astronauts org
     ```
 
 ## Usage
-1. Start the application and choose to either login or register.
-2. Once logged in, you can add, remove, or view tasks.
+1. Start the application.
+2. you can add, remove, or view tasks.
 3. Follow the prompts to manage your schedule.
 
 ## Logging
